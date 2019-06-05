@@ -4,6 +4,9 @@ class String
 
   def sentence?
   "Hi, my name is Sophie." .end_with?(".")
+  return true
+else
+  return false
 end
 
   def question?
